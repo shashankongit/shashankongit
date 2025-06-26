@@ -77,5 +77,7 @@
 
 ---
 
-> **“Code with precision. Deliver with purpose.”**
+
+### **Code with precision. Deliver with purpose.**
+
 
