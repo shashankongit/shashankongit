@@ -76,6 +76,8 @@
 - 🐦 [Twitter](https://twitter.com/shashark1010)
 
 ---
+## 👁️ Visitors Count
+![Visitor Count](https://komarev.com/ghpvc/?username=shashankongit&style=plastic&color=brightgreen)
 
 
 ### **Code with precision. Deliver with purpose.**
