@@ -70,7 +70,7 @@
 
 ## 🔗 Connect with Me
 
-- 🌐 [irajput.dev](https://irajput.dev)  
+<!-- - 🌐 [irajput.dev](https://irajput.dev)  -->
 - 💼 [LinkedIn](https://linkedin.com/in/shashank-rajput)  
 - 🐙 [GitHub](https://github.com/shashankongit)  
 - 🐦 [Twitter](https://twitter.com/shashark1010)
