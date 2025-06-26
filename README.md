@@ -3,8 +3,8 @@
 **Full Stack Developer | React | Spring Boot | AWS | Indie Hacker | Tinkerer**
 
 🚀 I'm a passionate coder and curious builder who enjoys crafting production-grade systems and modern UIs.  
-🎓 I hold a **BSc(Hons) in Computer Science** from **BITS Pilani** and am pursuing an **MTech in Artificial Intelligence** from **IISc Bangalore**.  
 🧠 I love working on open-source projects, clean system architecture, and scalable cloud-native apps.
+<!-- 🎓 I hold a **BSc(Hons) in Computer Science** from **BITS Pilani** and am pursuing an **MTech in Artificial Intelligence** from **IISc Bangalore**. -->
 
 ---
 
@@ -38,6 +38,7 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Link |
@@ -45,6 +46,8 @@
 | 📚 [**KitabiKeeda**](https://kitabikeeda.com) | Book-sharing & reading community | React + Node + MongoDB | [Visit](https://kitabikeeda.com) |
 | 📊 [**Observer**](https://observer.globuslogic.com) | Internal analytics & ops dashboard | React + Spring Boot + PostgreSQL | [Visit](https://observer.globuslogic.com) |
 | ✈️ [**TrioJet**](https://triojet.in) | Courier logistics & delivery platform | WordPress + PHP | [Visit](https://triojet.in) |
+| 🐞 [**SmallBug**](https://smallbug.com) | Bug tracking & issue reporting system | React + Firebase | [Visit](https://smallbug.com) |
+
 
 ---
 
@@ -74,4 +77,5 @@
 
 ---
 
-> “Code with precision. Deliver with purpose.”
+> **“Code with precision. Deliver with purpose.”**
+
