@@ -43,10 +43,10 @@
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
+| 🏠 [**Homely**](https://homely.pro) | Home management & expense tracking platform | React + Spring Boot + PostgreSQL | [Visit](https://homely.pro) |
+| ✨ [**Glister AI**](https://glister.org) | AI-powered platform for intelligent content & productivity | React + Node.js + AI | [Visit](https://glister.org) |
+| 📱 [**Tweakly**](https://tweakly.in) | Social media content creation & management tool | React + Spring Boot + AI | [Visit](https://tweakly.in) |
 | 📚 [**KitabiKeeda**](https://kitabikeeda.com) | Book-sharing & reading community | React + Node + MongoDB | [Visit](https://kitabikeeda.com) |
-| 📊 [**Observer**](https://observer.globuslogic.com) | Internal analytics & ops dashboard | React + Spring Boot + PostgreSQL | [Visit](https://observer.globuslogic.com) |
-| ✈️ [**TrioJet**](https://triojet.in) | Courier logistics & delivery platform | WordPress + PHP | [Visit](https://triojet.in) |
-| 🐞 [**SmallBug**](https://smallbug.com) | Bug tracking & issue reporting system | React + Firebase | [Visit](https://smallbug.com) |
 
 
 ---
